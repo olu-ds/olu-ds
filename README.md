@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olu-ds
 - 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence, Deep Learning, Artificial Neural Networks. 
-- 🌱 I’m currently learning Python, R 
+- 🌱 I’m currently learning Python and R 
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects.
 - 📫 How to reach me on Linkedin here: https://www.linkedin.com/in/olu-ojo/
 
